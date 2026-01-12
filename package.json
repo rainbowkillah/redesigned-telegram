@@ -4,7 +4,12 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@naxodev/nx-cloudflare": "^5.0.2",
+    "cloudflare": "^5.2.0",
+    "create": "^0.5.5",
+    "wrangler": "^4.58.0"
+  },
   "devDependencies": {
     "@nx/js": "22.3.3",
     "@swc-node/register": "~1.9.1",
